@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+body {background:lawngreen;}
+
+
+ul li{
+  display: inline;
+
+}
+
+a{    transition: all 5s;
+  padding:3px;
+}
+a:hover { background-color: white}; /* You can add global styles to this file, and also import other style files */
